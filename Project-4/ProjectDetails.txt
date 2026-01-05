@@ -1,0 +1,25 @@
+What is this project about?
+
+This project uses basic Linux commands to analyze files inside a directory.
+It helps understand file count, file types, file sizes, and recent changes without deleting anything.
+
+⸻
+
+2️⃣ How does this project help?
+	•	Builds strong grip on Linux file handling
+	•	Teaches how to analyze directories safely
+	•	Improves confidence with real Linux commands
+	•	Prepares foundation for bash scripting & DevOps
+
+⸻
+
+3️⃣ Linux commands mostly used (short list)
+
+find
+du
+ls
+sort
+wc
+grep
+head
+date
