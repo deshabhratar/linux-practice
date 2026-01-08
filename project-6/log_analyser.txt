@@ -1,0 +1,21 @@
+file size of the log analyser file
+4.0K	sample_logfile.log
+12 sample_logfile.log
+below is the error lines 
+2026-01-08 09:07:22 ERROR Failed to connect to database
+2026-01-08 09:09:02 ERROR Database connection timeout
+2026-01-08 09:15:55 ERROR Service crashed unexpectedly
+below is the Warning lines 
+2026-01-08 09:03:45 WARNING Disk usage crossed 70%
+2026-01-08 09:11:15 WARNING High memory usage detected
+below is the INFO lines 
+2026-01-08 09:00:01 INFO  Application started successfully
+2026-01-08 09:01:12 INFO  User login successful (user=admin)
+2026-01-08 09:05:10 INFO  Scheduled job executed
+2026-01-08 09:08:30 INFO  Retrying database connection
+2026-01-08 09:12:40 INFO  Memory usage normalized
+2026-01-08 09:16:20 INFO  Service restart initiated
+2026-01-08 09:17:45 INFO  Service running normally
+2026-01-08 09:15:55 ERROR Service crashed unexpectedly
+2026-01-08 09:09:02 ERROR Database connection timeout
+ above is the top most recent 2 error logged 
